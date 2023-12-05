@@ -9,7 +9,7 @@ csl: csl/apa.csl
 nnt: "2020UPASA000"
 
 logo_cotutelle: "logos/cotutelle.png"
-taille_logo_cotutelle: "3.7cm"
+taille_logo_cotutelle: "8.0cm"
 
 titre_francais: "Titre en français"
 titre_anglais: "English title"
@@ -22,7 +22,8 @@ specialite: "Mathématique fondamentale"
 
 # Liste des unités / list of units :
 # https://www.universite-paris-saclay.fr/recherche/services-aux-chercheurs/comment-signer-une-publication-de-recherche
-unite: "Université Paris-Saclay, CNRS, ENS Paris-Saclay, Centre Borelli, 91190, Gif-sur-Yvette, France"
+unite: "Université Paris-Saclay, INRAE, AgroParisTech, Institut Jean-Pierre Bourgin, 78000, Versailles, France."
+#unite: "Université Paris-Saclay, CNRS, ENS Paris-Saclay, Centre Borelli, 91190, Gif-sur-Yvette, France"
 #unite: "Université Paris-Saclay, CNRS, CEA, Institut de physique théorique, 91191, Gif-sur-Yvette, France"
 #unite: "Université Paris-Saclay, IHES, CNRS, Laboratoire Alexander Grothendieck, 91440, Bures-sur-Yvette, France"
 #unite: "Université Paris-Saclay, CNRS, Laboratoire de mathématiques d'Orsay, 91405, Orsay, France"
@@ -77,7 +78,7 @@ jur9_nom: "Prénom NOM 9"
 jur9_qualite: "Invité 9"
 jur9_titre: "Titre, Affiliation 9"
 
-logo_ecole_doctotrale: "logos/edmh.jpg"
+logo_ecole_doctotrale: "logos/logo_usp_ABIES.png"
 
 mots_clefs_francais: "Mots-clefs en français."
 mots_clefs_anglais: "Keywords in English."
