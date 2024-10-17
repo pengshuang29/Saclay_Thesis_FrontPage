@@ -1,0 +1,91 @@
+---
+title: "Saclay Thesis FrontPage"
+output:
+  thesisdown::thesis_pdf: default
+  
+toc: false
+csl: csl/apa.csl
+
+nnt: "2020UPASA000"
+
+logo_cotutelle: "logos/cotutelle.png"
+taille_logo_cotutelle: "8.0cm"
+
+titre_francais: "Étude de la germination et des réarrangements du protéome et du métabolisme pour assurer la qualité des graines et leur défense via la production de peptides: Approches intégratives et prédictives"
+
+titre_anglais: "Proteome and metabolome remodeling during seed germinationInvestigation of germination and the rearrangement of the proteome and metabolism to enhance seed quality and defense through peptide production: Integrative and predictive approaches"
+
+ecole_doctotrale: "Ecole Doctorale numéro 581 : AGRICULTURE, ALIMENTATION, BIOLOGIE, ENVIRONNEMENT, SANTÉ (ABIES)"
+
+specialite: "Bioinformatique"
+# specialite: "Physiologie des semences"
+# specialite: "Deep Learning basé sur les séquences de protéines"
+
+# Liste des unités / list of units :
+# https://www.universite-paris-saclay.fr/recherche/services-aux-chercheurs/comment-signer-une-publication-de-recherche
+unite: "Université Paris-Saclay, INRAE, AgroParisTech, Institut Jean-Pierre Bourgin, 78000, Versailles, France."
+#unite: "Université Paris-Saclay, CNRS, ENS Paris-Saclay, Centre Borelli, 91190, Gif-sur-Yvette, France"
+#unite: "Université Paris-Saclay, CNRS, CEA, Institut de physique théorique, 91191, Gif-sur-Yvette, France"
+#unite: "Université Paris-Saclay, IHES, CNRS, Laboratoire Alexander Grothendieck, 91440, Bures-sur-Yvette, France"
+#unite: "Université Paris-Saclay, CNRS, Laboratoire de mathématiques d'Orsay, 91405, Orsay, France"
+#unite: "Université Paris-Saclay, UVSQ, CNRS, Laboratoire de mathématiques de Versailles, 78000, Versailles, France"
+#unite: "Université Paris-Saclay, CNRS, Univ Evry, Laboratoire de Mathématiques et Modélisation d'Evry, 91037, Evry-Courcouronnes, France"
+#unite: "Université Paris-Saclay, AgroParisTech, INRAE, UMR MIA-Paris, 75005, Paris, France"
+#unite: "Université Paris-Saclay, INRAE, MaIAGE, 78350, Jouy-en-Josas, France"
+
+referent: "AgroParisTech"
+#referent: "CentraleSupélec"
+#referent: "Ecole normale supérieure de Paris-Saclay"
+#referent: "Faculté des sciences d'Orsay"
+#referent: "Université d'Évry-Val d'Essonne"
+#referent: "Université de Versailles Saint-Quentin-en-Yvelines"
+
+lieu: "Paris"
+date_jma: "01 2025"
+
+prenom: "Shuang"
+nom: "PENG"
+
+## Par rôle puis ordre alphabétique
+## Ne mettre le président qu'après la soutenance 
+## Séparer les membres qui participent aux délibarétion des autres
+## À adapter si besoin dans le fichier template.tex 
+jur1_nom: "Béatrice TEULAT"
+jur1_qualite: "Rapporteur 1"
+jur1_titre: "Professeure, L'Institut Agro Rennes-Angers, IRHS (UMR 1345)"
+jur2_nom: "Frédéric CAPEL"
+jur2_qualite: "Rapporteur 2"
+jur2_titre: "Chargé de recherche, INRAE, Clermont-Ferrand, UNH (UMR 1019)"
+jur3_nom: "Juliette LEYMARIE"
+jur3_qualite: "Examinateur 1"
+jur3_titre: "Professeure, Université Paris Est Créteil, iEES Paris"
+jur4_nom: "Thomas BLEIN"
+jur4_qualite: "Examinateur 2"
+jur4_titre: "Chargé de recherche, CNRS (Université Paris-Saclay), IPS2 (UMR 1403)"
+jur5_nom: "Thomas SIMONSON"
+jur5_qualite: "Examinateur 3"
+jur5_titre: "Directeur de Recherche, CNRS (IPP)/École Polytechnique, Laboratoire de Biochimie, UMR 7654"
+# jur6_nom: "Prénom NOM 6"
+# jur6_qualite: "Examinateur 6"
+# jur6_titre: "Titre, Affiliation 6"
+## Séparation ici, à adapter si besoin dans le fichier template.tex
+# jur7_nom: "Prénom NOM 7"
+# jur7_qualite: "Directrice 7"
+# jur7_titre: "Titre, Affiliation 7"
+# jur8_nom: "Prénom NOM 8"
+# jur8_qualite: "Codirecteur 8"
+# jur8_titre: "Titre, Affiliation 8"
+# jur9_nom: "Prénom NOM 9"
+# jur9_qualite: "Invité 9"
+# jur9_titre: "Titre, Affiliation 9"
+
+logo_ecole_doctotrale: "logos/logo_usp_ABIES.png"
+
+mots_clefs_francais: "Sciences végétales, Semences, Germination, Protéomique, Peptides, Métabolomique."
+
+mots_clefs_anglais: "Plant science, Seed, Germination, Proteomic, Peptides, Metabolomic"
+
+resume_francais: "La germination et l'émergence des plantules sont des étapes critiques pour les productions végétales. En effet, la phase de transition entre l'état hétérotrophe vers un développement autotrophe est extrêmement sensible aux contraintes environnementales. Ces travaux de thèse se concentrent sur l'analyse des descripteurs de germination, fournissant ainsi un outil précieux pour les physiologistes afin d'améliorer le phénotypage de la germination. Cette approche permettra également d'intégrer une grande diversité d'indices de germination dans des analyses génomiques. Les mécanismes de résistance/tolérance au stress thermique demeurent peu décrits à ces stades précoces de germination. Ce travail révèle les transitions métaboliques de la germination de la lentille sous l'effet de la température par des approches de protéomique et de métabolomique, et permet d'étudier les réorganisations du protéome et le potentiel de la germination pour améliorer l'intérêt nutritionnel des graines. Des approches d'annotation fonctionnelle de gènes et de modélisation statistique de données protéomiques et métabolomiques sur des graines en germination conduiront à mieux comprendre les mécanismes de réponse au stress et à caractériser des biomarqueurs de la qualité des semences. Enfin, ce travail de thèse consiste à mettre enouvre une approche d'intelligence artificielle pour prédire les peptides antimicrobiens générés par l'hydrolyse des protéines de réserve pendant la germination. L'ensemble des travaux développés dans cette thèse sera largement partagé avec la communauté scientifique du domaine des sciences végétales."
+
+resume_anglais: "Germination and seedling emergence are critical stages for plant production. Indeed, the transition from a heterotrophic state to autotrophic development is highly sensitive to environmental constraints. This thesis work focuses on the analysis of germination descriptors, providing a valuable tool for physiologists to enhance germination phenotyping. This approach will also enable the integration of a wide range of germination indices into genomic analyses. Mechanisms of resistance/tolerance to thermal stress remain poorly described at these early stages of germination. This work unveils the metabolic transitions of lentil germination under the influence of temperature through proteomic and metabolomic approaches, allowing for the study of proteome rearrangements and the potential to enhance the nutritional value of seeds. Functional gene annotation approaches and statistical modeling of proteomic and metabolomic data on germinating seeds will lead to a better understanding of stress response mechanisms and the characterization of seed quality biomarkers. Finally, this thesis work involves implementing an artificial intelligence approach to predict antimicrobial peptides generated by reserve protein hydrolysis during germination. The entirety of the work developed in this thesis will be widely shared with the scientific community in plant sciences."
+---

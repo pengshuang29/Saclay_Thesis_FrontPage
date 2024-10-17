@@ -57,3 +57,4 @@ $RECYCLE.BIN/
 *.Ruserdata
 *.pdf
 *.log
+.Rproj.user
